@@ -19,3 +19,6 @@ models/*.keras
 # OS files
 .DS_Store
 Thumbs.db
+
+data/raw_stocks.csv
+data/poisoned_stocks.csv
