@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+../venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+models/*.keras
+*.h5
+
+# Images
+*.png
+
+# Jupyter notebooks (optional)
+*.ipynb
+
+# OS files
+.DS_Store
+Thumbs.db
